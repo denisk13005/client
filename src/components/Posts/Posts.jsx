@@ -6,7 +6,7 @@ const Posts = () => {
   const posts = useSelector((state) => state.posts);
   return (
     <div>
-      <h1 style={{ margin: "0" }}>POSTS</h1>
+      <h1 style={{ margin: "0" }}>POSTS </h1>
       <section
         style={{
           width: "100%",
